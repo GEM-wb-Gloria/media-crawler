@@ -1,0 +1,77 @@
+{
+  "total_sites": 1432,
+  "success_crawled": 1217,
+  "success_rate": "84.99%",
+  "accessible_sites": 1291,
+  "accessible_rate": "90.15%",
+  "status_breakdown": {
+    "DNS_FAILURE": 45,
+    "ACCESSIBLE_NO_LINKS": 62,
+    "SUCCESS": 1217,
+    "HTTP_404": 3,
+    "REQUEST_ERROR": 1,
+    "PARSED_NO_TEXT": 12,
+    "HTTP_403": 28,
+    "READ_TIMEOUT": 35,
+    "CONNECTION_REFUSED": 2,
+    "HTTP_521": 3,
+    "HTTP_412": 6,
+    "HTTP_502": 1,
+    "CONNECTION_ERROR": 3,
+    "HTTP_405": 5,
+    "SSL_ERROR": 7,
+    "CONNECT_TIMEOUT": 1,
+    "HTTP_567": 1
+  },
+  "category_breakdown": {
+    "中央新闻网站和重点理论网站": {
+      "total": 31,
+      "success": 27,
+      "accessible": 30,
+      "failed": 1
+    },
+    "中央新闻单位报刊网站": {
+      "total": 67,
+      "success": 34,
+      "accessible": 49,
+      "failed": 18
+    },
+    "部委群团报刊网站": {
+      "total": 117,
+      "success": 93,
+      "accessible": 98,
+      "failed": 19
+    },
+    "中央政务发布平台": {
+      "total": 85,
+      "success": 64,
+      "accessible": 71,
+      "failed": 14
+    },
+    "其他单位报刊网站": {
+      "total": 17,
+      "success": 15,
+      "accessible": 15,
+      "failed": 2
+    },
+    "地方新闻单位": {
+      "total": 573,
+      "success": 497,
+      "accessible": 526,
+      "failed": 47
+    },
+    "地方新闻网站": {
+      "total": 511,
+      "success": 472,
+      "accessible": 486,
+      "failed": 25
+    },
+    "省级政务发布平台": {
+      "total": 31,
+      "success": 15,
+      "accessible": 16,
+      "failed": 15
+    }
+  },
+  "generated_at": "2026-09-14 09:17:54"
+}

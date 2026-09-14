@@ -147,7 +147,11 @@ def load_manifest():
 MEDIA_SITES = {}
 
 def build_registry():
-    from gov_platform_crawler import GOV_OFFICIAL_DOMAINS
+    try:
+        from domain_mapper import DomainMapper, GOV_OFFICIAL_DOMAINS, LOCAL_OFFICIAL_DOMAINS
+    except ImportError:
+        from crawler.domain_mapper import DomainMapper, GOV_OFFICIAL_DOMAINS, LOCAL_OFFICIAL_DOMAINS
+
     raw_data = load_manifest()
     for item in raw_data:
         name = item["name"]
@@ -155,11 +159,9 @@ def build_registry():
         cat = item["category"]
         url = item.get("url") or item.get("raw_url") or ""
 
-        # 检查政务官方映射
-        if clean_name in GOV_OFFICIAL_DOMAINS:
-            url = GOV_OFFICIAL_DOMAINS[clean_name]
-        elif name in GOV_OFFICIAL_DOMAINS:
-            url = GOV_OFFICIAL_DOMAINS[name]
+        # 统一由 DomainMapper 及其权威映射池解析真实合法域名
+        resolved_url, src_type, is_fallback = DomainMapper.resolve(name, cat, url)
+        url = resolved_url
         
         # 针对有具体子频道的站点
         if name in DETAILED_CHANNELS:
@@ -168,7 +170,6 @@ def build_registry():
             channels = {"综合": url} if url else {}
             
         # 智能通用文章链接匹配模式
-        # 匹配含年份日期、content_、t202x、/article/ 等常规新闻页特征
         parsed = urlparse(url)
         domain_pattern = re.escape(parsed.netloc.replace("www.", "")) if parsed.netloc else ""
         if domain_pattern:
@@ -183,11 +184,13 @@ def build_registry():
             "channels": channels,
             "url_pattern": url_pattern,
             "encoding": "utf-8" if "cnr.cn" not in url and "youth.cn" not in url else "gbk",
-            "title_selectors": ["h1", ".title", ".article-title", "title"],
+            "title_selectors": ["h1", ".title", ".article-title", "title", ".main-title"],
             "content_selectors": [
                 "#rwb_zw", ".detail", ".left_zw", ".u-mainText", ".article-body",
                 "#content", ".main-arti", ".TRS_Editor", "#articleText", ".content",
-                ".article-content", ".article", ".text", "#Content", ".cnt_bd"
+                ".article-content", ".article", ".text", "#Content", ".cnt_bd",
+                "#UCAP-CONTENT", "#zoom", ".pages_content", ".news-content", "#ozoom",
+                ".articleCont", ".con_txt", ".article-detail"
             ],
         }
 

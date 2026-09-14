@@ -56,6 +56,13 @@
     "sub_category": "中央新闻网站和重点理论网站"
   },
   {
+    "name": "学习强国",
+    "category": "中央新闻网站和重点理论网站",
+    "url": "https://www.xuexi.cn/",
+    "raw_url": "https://www.xuexi.cn",
+    "sub_category": "中央新闻网站和重点理论网站"
+  },
+  {
     "name": "中国网",
     "category": "中央新闻网站和重点理论网站",
     "url": "http://www.china.com.cn/",
@@ -70,6 +77,13 @@
     "sub_category": "中央新闻网站和重点理论网站"
   },
   {
+    "name": "求是网",
+    "category": "中央新闻网站和重点理论网站",
+    "url": "http://www.qiushi.com.cn/",
+    "raw_url": "http://www.qiushi.com.cn",
+    "sub_category": "中央新闻网站和重点理论网站"
+  },
+  {
     "name": "国际在线",
     "category": "中央新闻网站和重点理论网站",
     "url": "https://www.cri.cn/",
@@ -81,6 +95,13 @@
     "category": "中央新闻网站和重点理论网站",
     "url": "http://www.legaldaily.com.cn/",
     "raw_url": "http://www.legaldaily.com.cn",
+    "sub_category": "中央新闻网站和重点理论网站"
+  },
+  {
+    "name": "理论网",
+    "category": "中央新闻网站和重点理论网站",
+    "url": "http://www.lilun.cn/",
+    "raw_url": "http://www.lilun.cn",
     "sub_category": "中央新闻网站和重点理论网站"
   },
   {
@@ -168,6 +189,13 @@
     "sub_category": "中央新闻网站和重点理论网站"
   },
   {
+    "name": "中国西藏网",
+    "category": "中央新闻网站和重点理论网站",
+    "url": "http://www.vtibet.cn/",
+    "raw_url": "http://www.vtibet.cn",
+    "sub_category": "中央新闻网站和重点理论网站"
+  },
+  {
     "name": "海外网",
     "category": "中央新闻网站和重点理论网站",
     "url": "http://www.haiwainet.cn/",
@@ -187,6 +215,13 @@
     "url": "https://www.jcrb.com/",
     "raw_url": "http://www.jcrb.com",
     "sub_category": "中央新闻网站和重点理论网站"
+  },
+  {
+    "name": "人民日报海外版",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://paper.people.com.cn/rmrbhwb",
+    "raw_url": "http://paper.people.com.cn/rmrbhwb",
+    "sub_category": "中央新闻单位报刊网站"
   },
   {
     "name": "环球时报",
@@ -224,6 +259,20 @@
     "sub_category": "中央新闻单位报刊网站"
   },
   {
+    "name": "环球人物",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.huanqiurenwu.com/",
+    "raw_url": "http://www.huanqiurenwu.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "环球人物网",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.huanqiurenwu.com/",
+    "raw_url": "http://www.huanqiurenwu.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
     "name": "人民论坛",
     "category": "中央新闻单位报刊网站",
     "url": "http://www.rmlt.com.cn",
@@ -245,6 +294,20 @@
     "sub_category": "中央新闻单位报刊网站"
   },
   {
+    "name": "中国汽车报",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.chinagathering.com",
+    "raw_url": "http://www.chinagathering.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "中国汽车报网",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.chinagathering.com",
+    "raw_url": "http://www.chinagathering.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
     "name": "中国能源报",
     "category": "中央新闻单位报刊网站",
     "url": "http://www.china5e.com",
@@ -256,6 +319,104 @@
     "category": "中央新闻单位报刊网站",
     "url": "http://www.china5e.com",
     "raw_url": "http://www.china5e.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "中国城市报",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.zgcsb.com",
+    "raw_url": "http://www.zgcsb.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "中国城市网",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.zgcsb.com",
+    "raw_url": "http://www.zgcsb.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "人民周刊",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.peopleweek.cn",
+    "raw_url": "http://www.peopleweek.cn",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "人民周刊网",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.peopleweek.cn",
+    "raw_url": "http://www.peopleweek.cn",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "人民财经网",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.peopleweek.cn",
+    "raw_url": "http://www.peopleweek.cn",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "人民研学网",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.peopleweek.cn",
+    "raw_url": "http://www.peopleweek.cn",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "民生周刊",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.msweekly.com",
+    "raw_url": "http://www.msweekly.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "民生网",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.msweekly.com",
+    "raw_url": "http://www.msweekly.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "人民数字联播网",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.rmsznet.com",
+    "raw_url": "http://www.rmsznet.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "《新安全》杂志",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.xinanquan.cn",
+    "raw_url": "http://www.xinanquan.cn",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "《平安校园》杂志",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.paxw.cn",
+    "raw_url": "http://www.paxw.cn",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "参考消息",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.cankaoxiaoxi.com/",
+    "raw_url": "http://www.cankaoxiaoxi.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "参考消息网",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.cankaoxiaoxi.com/",
+    "raw_url": "http://www.cankaoxiaoxi.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "新华每日电讯",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://mrdx.xinhuanet.com",
+    "raw_url": "http://mrdx.xinhuanet.com",
     "sub_category": "中央新闻单位报刊网站"
   },
   {
@@ -308,6 +469,20 @@
     "sub_category": "中央新闻单位报刊网站"
   },
   {
+    "name": "上海证券报",
+    "category": "中央新闻单位报刊网站",
+    "url": "https://www.cnstock.com/",
+    "raw_url": "https://www.cnstock.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "中国证券网",
+    "category": "中央新闻单位报刊网站",
+    "url": "https://www.cnstock.com/",
+    "raw_url": "https://www.cnstock.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
     "name": "中国财富网",
     "category": "中央新闻单位报刊网站",
     "url": "http://www.cfis.cn/",
@@ -315,10 +490,45 @@
     "sub_category": "中央新闻单位报刊网站"
   },
   {
+    "name": "中国金融信息网",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.cnfin.com/",
+    "raw_url": "http://www.cnfin.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
     "name": "CGTN",
     "category": "中央新闻单位报刊网站",
     "url": "https://www.cgtn.com",
     "raw_url": "https://www.cgtn.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "《红旗文稿》杂志",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.qiushi.com.cn/hqwg",
+    "raw_url": "http://www.qiushi.com.cn/hqwg",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "《教育家》杂志",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.gmdaily.cn",
+    "raw_url": "http://www.gmdaily.cn",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "《留学》杂志",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.liuxue-magazine.com",
+    "raw_url": "http://www.liuxue-magazine.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "中华读书报",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.gmw.cn/01gmrb/zgdsb",
+    "raw_url": "http://www.gmw.cn/01gmrb/zgdsb",
     "sub_category": "中央新闻单位报刊网站"
   },
   {
@@ -350,6 +560,34 @@
     "sub_category": "中央新闻单位报刊网站"
   },
   {
+    "name": "《中国企业家》杂志",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.iceo.com.cn",
+    "raw_url": "http://www.iceo.com.cn",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "中国企业家网",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.iceo.com.cn",
+    "raw_url": "http://www.iceo.com.cn",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "中国县域经济报",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.zgxyjj.org.cn",
+    "raw_url": "http://www.zgxyjj.org.cn",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "县域经济网",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.zgxyjj.org.cn",
+    "raw_url": "http://www.zgxyjj.org.cn",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
     "name": "中国科技网",
     "category": "中央新闻单位报刊网站",
     "url": "http://www.stdaily.com/",
@@ -375,6 +613,20 @@
     "category": "中央新闻单位报刊网站",
     "url": "https://www.jwview.com/",
     "raw_url": "http://www.jwview.com",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "中国妇女网",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.women.org.cn/",
+    "raw_url": "http://www.women.org.cn",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
+    "name": "中国农网",
+    "category": "中央新闻单位报刊网站",
+    "url": "https://www.farmer.com.cn/",
+    "raw_url": "http://www.farmer.com.cn",
     "sub_category": "中央新闻单位报刊网站"
   },
   {
@@ -413,6 +665,13 @@
     "sub_category": "中央新闻单位报刊网站"
   },
   {
+    "name": "中国画报网站",
+    "category": "中央新闻单位报刊网站",
+    "url": "http://www.china-pictorial.com.cn",
+    "raw_url": "http://www.china-pictorial.com.cn",
+    "sub_category": "中央新闻单位报刊网站"
+  },
+  {
     "name": "人民中国",
     "category": "中央新闻单位报刊网站",
     "url": "http://www.peoplechina.com.cn",
@@ -448,10 +707,31 @@
     "sub_category": "部委群团报刊网站"
   },
   {
+    "name": "《当代世界》杂志",
+    "category": "部委群团报刊网站",
+    "url": "http://www.当代世界杂志.gov.cn",
+    "raw_url": "http://www.当代世界杂志.gov.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
     "name": "中国社会工作报",
     "category": "部委群团报刊网站",
     "url": "http://www.中国社会工作报.cn",
     "raw_url": "http://www.中国社会工作报.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "《乡镇论坛》杂志",
+    "category": "部委群团报刊网站",
+    "url": "http://www.乡镇论坛杂志.gov.cn",
+    "raw_url": "http://www.乡镇论坛杂志.gov.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "《社区》杂志",
+    "category": "部委群团报刊网站",
+    "url": "http://www.社区杂志.gov.cn",
+    "raw_url": "http://www.社区杂志.gov.cn",
     "sub_category": "部委群团报刊网站"
   },
   {
@@ -466,6 +746,20 @@
     "category": "部委群团报刊网站",
     "url": "http://www.旗帜杂志.gov.cn",
     "raw_url": "http://www.旗帜杂志.gov.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国经济导报",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国经济导报.cn",
+    "raw_url": "http://www.中国经济导报.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国发展网",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国发展网.cn",
+    "raw_url": "http://www.中国发展网.cn",
     "sub_category": "部委群团报刊网站"
   },
   {
@@ -567,6 +861,13 @@
     "sub_category": "部委群团报刊网站"
   },
   {
+    "name": "人民公安报",
+    "category": "部委群团报刊网站",
+    "url": "http://www.人民公安报.cn",
+    "raw_url": "http://www.人民公安报.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
     "name": "《中国民政》杂志",
     "category": "部委群团报刊网站",
     "url": "http://www.中国民政杂志.gov.cn",
@@ -637,10 +938,66 @@
     "sub_category": "部委群团报刊网站"
   },
   {
+    "name": "中国劳动保障报",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国劳动保障报.cn",
+    "raw_url": "http://www.中国劳动保障报.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
     "name": "中国劳动保障新闻网",
     "category": "部委群团报刊网站",
     "url": "http://www.中国劳动保障新闻网.cn",
     "raw_url": "http://www.中国劳动保障新闻网.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国自然资源报",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国自然资源报.cn",
+    "raw_url": "http://www.中国自然资源报.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国环境报",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国环境报.cn",
+    "raw_url": "http://www.中国环境报.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国环境网站",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国环境网站.cn",
+    "raw_url": "http://www.中国环境网站.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国建设报",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国建设报.cn",
+    "raw_url": "http://www.中国建设报.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国建设新闻网",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国建设新闻网.cn",
+    "raw_url": "http://www.中国建设新闻网.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国交通报",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国交通报.cn",
+    "raw_url": "http://www.中国交通报.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国交通新闻网",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国交通新闻网.cn",
+    "raw_url": "http://www.中国交通新闻网.cn",
     "sub_category": "部委群团报刊网站"
   },
   {
@@ -756,6 +1113,20 @@
     "sub_category": "部委群团报刊网站"
   },
   {
+    "name": "中国应急管理报",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国应急管理报.cn",
+    "raw_url": "http://www.中国应急管理报.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国安全生产网",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国安全生产网.cn",
+    "raw_url": "http://www.中国安全生产网.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
     "name": "金融时报",
     "category": "部委群团报刊网站",
     "url": "http://www.金融时报.cn",
@@ -781,6 +1152,13 @@
     "category": "部委群团报刊网站",
     "url": "http://www.中国审计报.cn",
     "raw_url": "http://www.中国审计报.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国税务报",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国税务报.cn",
+    "raw_url": "http://www.中国税务报.cn",
     "sub_category": "部委群团报刊网站"
   },
   {
@@ -833,6 +1211,27 @@
     "sub_category": "部委群团报刊网站"
   },
   {
+    "name": "中国银行保险报",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国银行保险报.cn",
+    "raw_url": "http://www.中国银行保险报.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国银行保险报网",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国银行保险报网.cn",
+    "raw_url": "http://www.中国银行保险报网.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国体育报",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国体育报.cn",
+    "raw_url": "http://www.中国体育报.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
     "name": "中国知识产权报",
     "category": "部委群团报刊网站",
     "url": "http://www.中国知识产权报.cn",
@@ -875,6 +1274,13 @@
     "sub_category": "部委群团报刊网站"
   },
   {
+    "name": "中国经营网",
+    "category": "部委群团报刊网站",
+    "url": "http://www.cb.com.cn/",
+    "raw_url": "http://www.中国经营网.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
     "name": "中国经济时报",
     "category": "部委群团报刊网站",
     "url": "http://www.中国经济时报.cn",
@@ -914,6 +1320,13 @@
     "category": "部委群团报刊网站",
     "url": "http://www.中国能源新闻网.cn",
     "raw_url": "http://www.中国能源新闻网.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国绿色时报",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国绿色时报.cn",
+    "raw_url": "http://www.中国绿色时报.cn",
     "sub_category": "部委群团报刊网站"
   },
   {
@@ -977,6 +1390,20 @@
     "category": "部委群团报刊网站",
     "url": "http://www.中国医药报.cn",
     "raw_url": "http://www.中国医药报.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "人民法院报",
+    "category": "部委群团报刊网站",
+    "url": "http://www.人民法院报.cn",
+    "raw_url": "http://www.人民法院报.cn",
+    "sub_category": "部委群团报刊网站"
+  },
+  {
+    "name": "中国法院网",
+    "category": "部委群团报刊网站",
+    "url": "http://www.中国法院网.cn",
+    "raw_url": "http://www.中国法院网.cn",
     "sub_category": "部委群团报刊网站"
   },
   {
@@ -1190,6 +1617,20 @@
     "sub_category": "其他单位报刊网站"
   },
   {
+    "name": "人民铁道报",
+    "category": "其他单位报刊网站",
+    "url": "http://www.人民铁道报.cn",
+    "raw_url": "http://www.人民铁道报.cn",
+    "sub_category": "其他单位报刊网站"
+  },
+  {
+    "name": "人民铁道网",
+    "category": "其他单位报刊网站",
+    "url": "http://www.人民铁道网.cn",
+    "raw_url": "http://www.人民铁道网.cn",
+    "sub_category": "其他单位报刊网站"
+  },
+  {
     "name": "中央纪委国家监委网站",
     "category": "中央政务发布平台",
     "url": "http://www.中央纪委国家监委网站.cn",
@@ -1201,6 +1642,13 @@
     "category": "中央政务发布平台",
     "url": "http://www.共产党员网.cn",
     "raw_url": "http://www.共产党员网.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
+    "name": "国务院新闻办公室网站国家新闻出版署网站中\n国全民阅读网",
+    "category": "中央政务发布平台",
+    "url": "http://www.国务院新闻办公室网站国家新闻出版署网站中国全民阅读网.cn",
+    "raw_url": "http://www.国务院新闻办公室网站国家新闻出版署网站中国全民阅读网.cn",
     "sub_category": "中央政务发布平台"
   },
   {
@@ -1236,6 +1684,13 @@
     "category": "中央政务发布平台",
     "url": "http://www.中共中央台湾工作办公室网站.cn",
     "raw_url": "http://www.中共中央台湾工作办公室网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
+    "name": "中央党校（国家行政学院）网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.中央党校网站.cn",
+    "raw_url": "http://www.中央党校网站.cn",
     "sub_category": "中央政务发布平台"
   },
   {
@@ -1281,6 +1736,13 @@
     "sub_category": "中央政务发布平台"
   },
   {
+    "name": "科技部网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.科技部网站.cn",
+    "raw_url": "http://www.科技部网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
     "name": "工业和信息化部网站",
     "category": "中央政务发布平台",
     "url": "http://www.工业和信息化部网站.cn",
@@ -1295,6 +1757,20 @@
     "sub_category": "中央政务发布平台"
   },
   {
+    "name": "公安部网站中国反邪教网",
+    "category": "中央政务发布平台",
+    "url": "http://www.公安部网站中国反邪教网.cn",
+    "raw_url": "http://www.公安部网站中国反邪教网.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
+    "name": "民政部网站中国社会组织政务服务平台",
+    "category": "中央政务发布平台",
+    "url": "http://www.民政部网站中国社会组织政务服务平台.cn",
+    "raw_url": "http://www.民政部网站中国社会组织政务服务平台.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
     "name": "司法部网站",
     "category": "中央政务发布平台",
     "url": "http://www.司法部网站.cn",
@@ -1302,10 +1778,31 @@
     "sub_category": "中央政务发布平台"
   },
   {
+    "name": "财政部网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.财政部网站.cn",
+    "raw_url": "http://www.财政部网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
+    "name": "自然资源部网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.自然资源部网站.cn",
+    "raw_url": "http://www.自然资源部网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
     "name": "生态环境部网站",
     "category": "中央政务发布平台",
     "url": "http://www.生态环境部网站.cn",
     "raw_url": "http://www.生态环境部网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
+    "name": "住房城乡建设部网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.住房城乡建设部网站.cn",
+    "raw_url": "http://www.住房城乡建设部网站.cn",
     "sub_category": "中央政务发布平台"
   },
   {
@@ -1344,6 +1841,20 @@
     "sub_category": "中央政务发布平台"
   },
   {
+    "name": "国家卫生健康委网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.国家卫生健康委网站.cn",
+    "raw_url": "http://www.国家卫生健康委网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
+    "name": "退役军人事务部网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.退役军人事务部网站.cn",
+    "raw_url": "http://www.退役军人事务部网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
     "name": "应急管理部网站",
     "category": "中央政务发布平台",
     "url": "http://www.应急管理部网站.cn",
@@ -1372,6 +1883,13 @@
     "sub_category": "中央政务发布平台"
   },
   {
+    "name": "海关总署网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.海关总署网站.cn",
+    "raw_url": "http://www.海关总署网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
     "name": "税务总局网站",
     "category": "中央政务发布平台",
     "url": "http://www.税务总局网站.cn",
@@ -1383,6 +1901,13 @@
     "category": "中央政务发布平台",
     "url": "http://www.市场监管总局网站.cn",
     "raw_url": "http://www.市场监管总局网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
+    "name": "金融监管总局网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.金融监管总局网站.cn",
+    "raw_url": "http://www.金融监管总局网站.cn",
     "sub_category": "中央政务发布平台"
   },
   {
@@ -1484,6 +2009,13 @@
     "sub_category": "中央政务发布平台"
   },
   {
+    "name": "国务院发展研究中心网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.国务院发展研究中心网站.cn",
+    "raw_url": "http://www.国务院发展研究中心网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
     "name": "中国气象局网站",
     "category": "中央政务发布平台",
     "url": "http://www.中国气象局网站.cn",
@@ -1533,6 +2065,13 @@
     "sub_category": "中央政务发布平台"
   },
   {
+    "name": "中国民航局网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.中国民航局网站.cn",
+    "raw_url": "http://www.中国民航局网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
     "name": "国家邮政局网站",
     "category": "中央政务发布平台",
     "url": "http://www.国家邮政局网站.cn",
@@ -1568,6 +2107,13 @@
     "sub_category": "中央政务发布平台"
   },
   {
+    "name": "国家药监局网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.国家药监局网站.cn",
+    "raw_url": "http://www.国家药监局网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
     "name": "国家航天局网站",
     "category": "中央政务发布平台",
     "url": "http://www.国家航天局网站.cn",
@@ -1596,10 +2142,38 @@
     "sub_category": "中央政务发布平台"
   },
   {
+    "name": "最高人民检察院网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.最高人民检察院网站.cn",
+    "raw_url": "http://www.最高人民检察院网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
+    "name": "全国总工会网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.全国总工会网站.cn",
+    "raw_url": "http://www.全国总工会网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
     "name": "中国共青团网",
     "category": "中央政务发布平台",
     "url": "http://www.中国共青团网.cn",
     "raw_url": "http://www.中国共青团网.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
+    "name": "全国妇联网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.全国妇联网站.cn",
+    "raw_url": "http://www.全国妇联网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
+    "name": "中国文艺网",
+    "category": "中央政务发布平台",
+    "url": "http://www.中国文艺网.cn",
+    "raw_url": "http://www.中国文艺网.cn",
     "sub_category": "中央政务发布平台"
   },
   {
@@ -1621,6 +2195,20 @@
     "category": "中央政务发布平台",
     "url": "http://www.全国工商联网站.cn",
     "raw_url": "http://www.全国工商联网站.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
+    "name": "中国供销合作网",
+    "category": "中央政务发布平台",
+    "url": "http://www.中国供销合作网.cn",
+    "raw_url": "http://www.中国供销合作网.cn",
+    "sub_category": "中央政务发布平台"
+  },
+  {
+    "name": "中国国际进口博览会网站",
+    "category": "中央政务发布平台",
+    "url": "http://www.中国国际进口博览会网站.cn",
+    "raw_url": "http://www.中国国际进口博览会网站.cn",
     "sub_category": "中央政务发布平台"
   },
   {
@@ -1666,6 +2254,13 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "北青网",
+    "category": "地方新闻网站",
+    "url": "https://www.ynet.com/",
+    "raw_url": "http://www.北青网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "北京时间",
     "category": "地方新闻网站",
     "url": "http://www.北京时间.gov.cn",
@@ -1677,6 +2272,13 @@
     "category": "地方新闻网站",
     "url": "http://www.北京广播网.cn",
     "raw_url": "http://www.北京广播网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "北方网",
+    "category": "地方新闻网站",
+    "url": "http://www.enorth.com.cn/",
+    "raw_url": "http://www.北方网.cn",
     "sub_category": "地方新闻网站"
   },
   {
@@ -1694,6 +2296,20 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "长城网",
+    "category": "地方新闻网站",
+    "url": "https://www.hebei.com.cn/",
+    "raw_url": "http://www.长城网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "河北新闻网",
+    "category": "地方新闻网站",
+    "url": "https://www.hebnews.cn/",
+    "raw_url": "http://www.河北新闻网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "河青新闻网",
     "category": "地方新闻网站",
     "url": "http://www.河青新闻网.cn",
@@ -1705,6 +2321,27 @@
     "category": "地方新闻网站",
     "url": "http://www.河工新闻网.cn",
     "raw_url": "http://www.河工新闻网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "河北法制网",
+    "category": "地方新闻网站",
+    "url": "http://www.河北法制网.cn",
+    "raw_url": "http://www.河北法制网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "河北共产党员网",
+    "category": "地方新闻网站",
+    "url": "http://www.河北共产党员网.cn",
+    "raw_url": "http://www.河北共产党员网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "河北网络广播电视台",
+    "category": "地方新闻网站",
+    "url": "http://www.河北网络广播电视台.cn",
+    "raw_url": "http://www.河北网络广播电视台.cn",
     "sub_category": "地方新闻网站"
   },
   {
@@ -1817,6 +2454,20 @@
     "category": "地方新闻网站",
     "url": "http://www.环京津新闻网.cn",
     "raw_url": "http://www.环京津新闻网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "黄河新闻网",
+    "category": "地方新闻网站",
+    "url": "http://www.sxgov.cn/",
+    "raw_url": "http://www.黄河新闻网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "山西新闻网",
+    "category": "地方新闻网站",
+    "url": "http://www.daynews.com.cn/",
+    "raw_url": "http://www.山西新闻网.cn",
     "sub_category": "地方新闻网站"
   },
   {
@@ -2009,6 +2660,13 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "东北新闻网",
+    "category": "地方新闻网站",
+    "url": "http://www.nen.com.cn/",
+    "raw_url": "http://www.东北新闻网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "北国网",
     "category": "地方新闻网站",
     "url": "http://www.lnd.com.cn/",
@@ -2058,6 +2716,13 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "东北网",
+    "category": "地方新闻网站",
+    "url": "https://www.dbw.cn/",
+    "raw_url": "http://www.东北网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "哈尔滨新闻网",
     "category": "地方新闻网站",
     "url": "http://www.哈尔滨新闻网.cn",
@@ -2093,6 +2758,13 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "上观新闻网",
+    "category": "地方新闻网站",
+    "url": "https://www.shobserver.com/",
+    "raw_url": "http://www.上观新闻网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "文汇网",
     "category": "地方新闻网站",
     "url": "http://www.文汇网.cn",
@@ -2111,6 +2783,20 @@
     "category": "地方新闻网站",
     "url": "http://www.看看新闻.gov.cn",
     "raw_url": "http://www.看看新闻.gov.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "东方网",
+    "category": "地方新闻网站",
+    "url": "https://www.eastday.com/",
+    "raw_url": "http://www.东方网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "澎湃新闻",
+    "category": "地方新闻网站",
+    "url": "https://www.thepaper.cn/",
+    "raw_url": "http://www.澎湃新闻.gov.cn",
     "sub_category": "地方新闻网站"
   },
   {
@@ -2139,6 +2825,13 @@
     "category": "地方新闻网站",
     "url": "http://www.新闻晨报网.cn",
     "raw_url": "http://www.新闻晨报网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "SHINE",
+    "category": "地方新闻网站",
+    "url": "http://www.SHINE.gov.cn",
+    "raw_url": "http://www.SHINE.gov.cn",
     "sub_category": "地方新闻网站"
   },
   {
@@ -2377,6 +3070,20 @@
     "category": "地方新闻网站",
     "url": "http://www.无锡新传媒.gov.cn",
     "raw_url": "http://www.无锡新传媒.gov.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "浙江网信网",
+    "category": "地方新闻网站",
+    "url": "http://www.浙江网信网.cn",
+    "raw_url": "http://www.浙江网信网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "浙江在线",
+    "category": "地方新闻网站",
+    "url": "https://www.zjol.com.cn/",
+    "raw_url": "http://www.浙江在线.gov.cn",
     "sub_category": "地方新闻网站"
   },
   {
@@ -2793,6 +3500,34 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "中国江西网",
+    "category": "地方新闻网站",
+    "url": "http://www.jxnews.com.cn/",
+    "raw_url": "http://www.中国江西网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "大江网",
+    "category": "地方新闻网站",
+    "url": "https://www.jxnews.com.cn/",
+    "raw_url": "http://www.大江网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "江西文明网",
+    "category": "地方新闻网站",
+    "url": "http://www.江西文明网.cn",
+    "raw_url": "http://www.江西文明网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "江西网络广播电视台",
+    "category": "地方新闻网站",
+    "url": "http://www.江西网络广播电视台.cn",
+    "raw_url": "http://www.江西网络广播电视台.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "南昌新闻网",
     "category": "地方新闻网站",
     "url": "http://www.南昌新闻网.cn",
@@ -2874,6 +3609,13 @@
     "category": "地方新闻网站",
     "url": "http://www.九江视听网.cn",
     "raw_url": "http://www.九江视听网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "大众网",
+    "category": "地方新闻网站",
+    "url": "http://www.dzwww.com/",
+    "raw_url": "http://www.大众网.cn",
     "sub_category": "地方新闻网站"
   },
   {
@@ -3098,6 +3840,20 @@
     "category": "地方新闻网站",
     "url": "http://www.菏泽广电网.cn",
     "raw_url": "http://www.菏泽广电网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "大河网",
+    "category": "地方新闻网站",
+    "url": "https://www.dahe.cn/",
+    "raw_url": "http://www.大河网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "映象网",
+    "category": "地方新闻网站",
+    "url": "http://www.hnr.cn/",
+    "raw_url": "http://www.映象网.cn",
     "sub_category": "地方新闻网站"
   },
   {
@@ -3703,6 +4459,13 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "金羊网",
+    "category": "地方新闻网站",
+    "url": "https://www.ycwb.com/",
+    "raw_url": "http://www.金羊网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "南方财经网",
     "category": "地方新闻网站",
     "url": "http://www.南方财经网.cn",
@@ -3777,6 +4540,13 @@
     "category": "地方新闻网站",
     "url": "http://www.南方杂志网站.cn",
     "raw_url": "http://www.南方杂志网站.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "21 经济网",
+    "category": "地方新闻网站",
+    "url": "http://www.21",
+    "raw_url": "http://www.21",
     "sub_category": "地方新闻网站"
   },
   {
@@ -4144,6 +4914,13 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "上游新闻网",
+    "category": "地方新闻网站",
+    "url": "https://www.cqcb.com/",
+    "raw_url": "http://www.上游新闻网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "七一网",
     "category": "地方新闻网站",
     "url": "http://www.七一网.cn",
@@ -4165,6 +4942,13 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "iChongqing",
+    "category": "地方新闻网站",
+    "url": "http://www.iChongqing.gov.cn",
+    "raw_url": "http://www.iChongqing.gov.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "重庆日报网",
     "category": "地方新闻网站",
     "url": "http://www.重庆日报网.cn",
@@ -4179,6 +4963,13 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "四川新闻网",
+    "category": "地方新闻网站",
+    "url": "http://www.newssc.org/",
+    "raw_url": "http://www.四川新闻网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "四川在线",
     "category": "地方新闻网站",
     "url": "https://sichuan.scol.com.cn/",
@@ -4186,10 +4977,24 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "四川经济网",
+    "category": "地方新闻网站",
+    "url": "http://www.四川经济网.cn",
+    "raw_url": "http://www.四川经济网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "每经网",
     "category": "地方新闻网站",
     "url": "https://www.nbd.com.cn/",
     "raw_url": "http://www.每经网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "四川党建网",
+    "category": "地方新闻网站",
+    "url": "http://www.四川党建网.cn",
+    "raw_url": "http://www.四川党建网.cn",
     "sub_category": "地方新闻网站"
   },
   {
@@ -4218,6 +5023,13 @@
     "category": "地方新闻网站",
     "url": "http://www.红星新闻网.cn",
     "raw_url": "http://www.红星新闻网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "四川网络广播电视台",
+    "category": "地方新闻网站",
+    "url": "http://www.四川网络广播电视台.cn",
+    "raw_url": "http://www.四川网络广播电视台.cn",
     "sub_category": "地方新闻网站"
   },
   {
@@ -4368,6 +5180,13 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "多彩贵州网",
+    "category": "地方新闻网站",
+    "url": "http://www.gog.cn/",
+    "raw_url": "http://www.多彩贵州网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "当代先锋网",
     "category": "地方新闻网站",
     "url": "http://www.当代先锋网.cn",
@@ -4449,6 +5268,13 @@
     "category": "地方新闻网站",
     "url": "http://www.贵州法治网.cn",
     "raw_url": "http://www.贵州法治网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "云南网",
+    "category": "地方新闻网站",
+    "url": "http://www.yunnan.cn/",
+    "raw_url": "http://www.云南网.cn",
     "sub_category": "地方新闻网站"
   },
   {
@@ -4627,10 +5453,31 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "西部网",
+    "category": "地方新闻网站",
+    "url": "http://www.cnwest.com/",
+    "raw_url": "http://www.西部网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "群众新闻网",
     "category": "地方新闻网站",
     "url": "http://www.群众新闻网.cn",
     "raw_url": "http://www.群众新闻网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "华商网",
+    "category": "地方新闻网站",
+    "url": "http://www.hsw.cn/",
+    "raw_url": "http://www.华商网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
+    "name": "陕西网",
+    "category": "地方新闻网站",
+    "url": "http://www.陕西网.cn",
+    "raw_url": "http://www.陕西网.cn",
     "sub_category": "地方新闻网站"
   },
   {
@@ -4872,6 +5719,13 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "宁夏新闻网",
+    "category": "地方新闻网站",
+    "url": "http://www.nxnews.net/",
+    "raw_url": "http://www.宁夏新闻网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "银川新闻网",
     "category": "地方新闻网站",
     "url": "http://www.银川新闻网.cn",
@@ -4921,6 +5775,13 @@
     "sub_category": "地方新闻网站"
   },
   {
+    "name": "天山网",
+    "category": "地方新闻网站",
+    "url": "http://www.ts.cn/",
+    "raw_url": "http://www.天山网.cn",
+    "sub_category": "地方新闻网站"
+  },
+  {
     "name": "丝路视听网",
     "category": "地方新闻网站",
     "url": "http://www.丝路视听网.cn",
@@ -4963,10 +5824,24 @@
     "sub_category": "报业传媒"
   },
   {
+    "name": "北京晚报",
+    "category": "地方新闻单位",
+    "url": "http://www.北京晚报.cn",
+    "raw_url": "http://www.北京晚报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
     "name": "新京报",
     "category": "地方新闻单位",
     "url": "http://www.新京报.cn",
     "raw_url": "http://www.新京报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "北京青年报",
+    "category": "地方新闻单位",
+    "url": "http://www.北京青年报.cn",
+    "raw_url": "http://www.北京青年报.cn",
     "sub_category": "报业传媒"
   },
   {
@@ -4991,10 +5866,59 @@
     "sub_category": "地方新闻单位综合"
   },
   {
+    "name": "北京广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.北京广播电视台.cn",
+    "raw_url": "http://www.北京广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "天津日报",
+    "category": "地方新闻单位",
+    "url": "http://www.天津日报.cn",
+    "raw_url": "http://www.天津日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "今晚报",
+    "category": "地方新闻单位",
+    "url": "http://www.今晚报.cn",
+    "raw_url": "http://www.今晚报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
     "name": "滨城时报",
     "category": "地方新闻单位",
     "url": "http://www.滨城时报.cn",
     "raw_url": "http://www.滨城时报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "天津广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.天津广播电视台.cn",
+    "raw_url": "http://www.天津广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "河北日报",
+    "category": "地方新闻单位",
+    "url": "http://www.河北日报.cn",
+    "raw_url": "http://www.河北日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "河北青年报",
+    "category": "地方新闻单位",
+    "url": "http://www.河北青年报.cn",
+    "raw_url": "http://www.河北青年报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "河北法制报",
+    "category": "地方新闻单位",
+    "url": "http://www.河北法制报.cn",
+    "raw_url": "http://www.河北法制报.cn",
     "sub_category": "报业传媒"
   },
   {
@@ -5054,6 +5978,20 @@
     "sub_category": "报业传媒"
   },
   {
+    "name": "中共河北省委共产党员杂志",
+    "category": "地方新闻单位",
+    "url": "http://www.中共河北省委共产党员杂志.gov.cn",
+    "raw_url": "http://www.中共河北省委共产党员杂志.gov.cn",
+    "sub_category": "地方新闻单位综合"
+  },
+  {
+    "name": "石家庄广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.石家庄广播电视台.cn",
+    "raw_url": "http://www.石家庄广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
     "name": "沧州广播电视台",
     "category": "地方新闻单位",
     "url": "http://www.沧州广播电视台.cn",
@@ -5080,6 +6018,13 @@
     "url": "http://www.张家口广播电视台.cn",
     "raw_url": "http://www.张家口广播电视台.cn",
     "sub_category": "广播电视"
+  },
+  {
+    "name": "山西日报",
+    "category": "地方新闻单位",
+    "url": "http://www.山西日报.cn",
+    "raw_url": "http://www.山西日报.cn",
+    "sub_category": "报业传媒"
   },
   {
     "name": "山西晚报",
@@ -5397,6 +6342,20 @@
     "sub_category": "广播电视"
   },
   {
+    "name": "解放日报",
+    "category": "地方新闻单位",
+    "url": "http://www.解放日报.cn",
+    "raw_url": "http://www.解放日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "文汇报",
+    "category": "地方新闻单位",
+    "url": "http://www.文汇报.cn",
+    "raw_url": "http://www.文汇报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
     "name": "新民晚报",
     "category": "地方新闻单位",
     "url": "http://www.新民晚报.cn",
@@ -5453,6 +6412,13 @@
     "sub_category": "广播电视"
   },
   {
+    "name": "新华日报",
+    "category": "地方新闻单位",
+    "url": "http://www.新华日报.cn",
+    "raw_url": "http://www.新华日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
     "name": "扬子晚报",
     "category": "地方新闻单位",
     "url": "http://www.扬子晚报.cn",
@@ -5481,10 +6447,24 @@
     "sub_category": "地方新闻单位综合"
   },
   {
+    "name": "南京日报",
+    "category": "地方新闻单位",
+    "url": "http://www.南京日报.cn",
+    "raw_url": "http://www.南京日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
     "name": "金陵晚报",
     "category": "地方新闻单位",
     "url": "http://www.金陵晚报.cn",
     "raw_url": "http://www.金陵晚报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "无锡日报",
+    "category": "地方新闻单位",
+    "url": "http://www.无锡日报.cn",
+    "raw_url": "http://www.无锡日报.cn",
     "sub_category": "报业传媒"
   },
   {
@@ -5499,6 +6479,13 @@
     "category": "地方新闻单位",
     "url": "http://www.镇江日报.cn",
     "raw_url": "http://www.镇江日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "苏州日报",
+    "category": "地方新闻单位",
+    "url": "http://www.苏州日报.cn",
+    "raw_url": "http://www.苏州日报.cn",
     "sub_category": "报业传媒"
   },
   {
@@ -5544,6 +6531,13 @@
     "sub_category": "报业传媒"
   },
   {
+    "name": "江苏省广播电视总台",
+    "category": "地方新闻单位",
+    "url": "http://www.江苏省广播电视总台.gov.cn",
+    "raw_url": "http://www.江苏省广播电视总台.gov.cn",
+    "sub_category": "广播电视"
+  },
+  {
     "name": "南京广播电视台",
     "category": "地方新闻单位",
     "url": "http://www.南京广播电视台.cn",
@@ -5572,6 +6566,13 @@
     "sub_category": "广播电视"
   },
   {
+    "name": "常州广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.常州广播电视台.cn",
+    "raw_url": "http://www.常州广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
     "name": "徐州广播电视台",
     "category": "地方新闻单位",
     "url": "http://www.徐州广播电视台.cn",
@@ -5583,6 +6584,13 @@
     "category": "地方新闻单位",
     "url": "http://www.镇江市广播电视台.cn",
     "raw_url": "http://www.镇江市广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "南通广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.南通广播电视台.cn",
+    "raw_url": "http://www.南通广播电视台.cn",
     "sub_category": "广播电视"
   },
   {
@@ -5628,10 +6636,24 @@
     "sub_category": "融媒体中心"
   },
   {
+    "name": "浙江日报",
+    "category": "地方新闻单位",
+    "url": "http://www.浙江日报.cn",
+    "raw_url": "http://www.浙江日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
     "name": "钱江晚报",
     "category": "地方新闻单位",
     "url": "http://www.钱江晚报.cn",
     "raw_url": "http://www.钱江晚报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "杭州日报",
+    "category": "地方新闻单位",
+    "url": "http://www.杭州日报.cn",
+    "raw_url": "http://www.杭州日报.cn",
     "sub_category": "报业传媒"
   },
   {
@@ -5724,6 +6746,20 @@
     "url": "http://www.台州日报.cn",
     "raw_url": "http://www.台州日报.cn",
     "sub_category": "报业传媒"
+  },
+  {
+    "name": "浙江电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.浙江电视台.cn",
+    "raw_url": "http://www.浙江电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "浙江人民广播电台",
+    "category": "地方新闻单位",
+    "url": "http://www.浙江人民广播电台.gov.cn",
+    "raw_url": "http://www.浙江人民广播电台.gov.cn",
+    "sub_category": "广播电视"
   },
   {
     "name": "杭州人民广播电台",
@@ -5842,6 +6878,13 @@
     "category": "地方新闻单位",
     "url": "http://www.合肥晚报.cn",
     "raw_url": "http://www.合肥晚报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "合肥日报",
+    "category": "地方新闻单位",
+    "url": "http://www.合肥日报.cn",
+    "raw_url": "http://www.合肥日报.cn",
     "sub_category": "报业传媒"
   },
   {
@@ -5997,6 +7040,13 @@
     "url": "http://www.黄山市广播电视台.cn",
     "raw_url": "http://www.黄山市广播电视台.cn",
     "sub_category": "广播电视"
+  },
+  {
+    "name": "福建日报",
+    "category": "地方新闻单位",
+    "url": "http://www.福建日报.cn",
+    "raw_url": "http://www.福建日报.cn",
+    "sub_category": "报业传媒"
   },
   {
     "name": "福州日报",
@@ -6230,6 +7280,27 @@
     "sub_category": "融媒体中心"
   },
   {
+    "name": "江西日报",
+    "category": "地方新闻单位",
+    "url": "http://www.江西日报.cn",
+    "raw_url": "http://www.江西日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "江西晨报",
+    "category": "地方新闻单位",
+    "url": "http://www.江西晨报.cn",
+    "raw_url": "http://www.江西晨报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "南昌日报",
+    "category": "地方新闻单位",
+    "url": "http://www.南昌日报.cn",
+    "raw_url": "http://www.南昌日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
     "name": "上饶日报",
     "category": "地方新闻单位",
     "url": "http://www.上饶日报.cn",
@@ -6286,11 +7357,25 @@
     "sub_category": "报业传媒"
   },
   {
+    "name": "鹰潭日报",
+    "category": "地方新闻单位",
+    "url": "http://www.鹰潭日报.cn",
+    "raw_url": "http://www.鹰潭日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
     "name": "景德镇日报",
     "category": "地方新闻单位",
     "url": "http://www.景德镇日报.cn",
     "raw_url": "http://www.景德镇日报.cn",
     "sub_category": "报业传媒"
+  },
+  {
+    "name": "江西广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.江西广播电视台.cn",
+    "raw_url": "http://www.江西广播电视台.cn",
+    "sub_category": "广播电视"
   },
   {
     "name": "南昌广播电视台",
@@ -6321,10 +7406,52 @@
     "sub_category": "广播电视"
   },
   {
+    "name": "新余市广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.新余市广播电视台.cn",
+    "raw_url": "http://www.新余市广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "抚州市广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.抚州市广播电视台.cn",
+    "raw_url": "http://www.抚州市广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
     "name": "景德镇市广播电视台",
     "category": "地方新闻单位",
     "url": "http://www.景德镇市广播电视台.cn",
     "raw_url": "http://www.景德镇市广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "赣州广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.赣州广播电视台.cn",
+    "raw_url": "http://www.赣州广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "宜春市广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.宜春市广播电视台.cn",
+    "raw_url": "http://www.宜春市广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "鹰潭广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.鹰潭广播电视台.cn",
+    "raw_url": "http://www.鹰潭广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "上饶市广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.上饶市广播电视台.cn",
+    "raw_url": "http://www.上饶市广播电视台.cn",
     "sub_category": "广播电视"
   },
   {
@@ -6333,6 +7460,20 @@
     "url": "http://www.分宜县融媒体中心.gov.cn",
     "raw_url": "http://www.分宜县融媒体中心.gov.cn",
     "sub_category": "融媒体中心"
+  },
+  {
+    "name": "大众日报",
+    "category": "地方新闻单位",
+    "url": "http://www.大众日报.cn",
+    "raw_url": "http://www.大众日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "齐鲁晚报",
+    "category": "地方新闻单位",
+    "url": "http://www.齐鲁晚报.cn",
+    "raw_url": "http://www.齐鲁晚报.cn",
+    "sub_category": "报业传媒"
   },
   {
     "name": "山东商报",
@@ -6475,6 +7616,13 @@
     "sub_category": "广播电视"
   },
   {
+    "name": "济南广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.济南广播电视台.cn",
+    "raw_url": "http://www.济南广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
     "name": "青岛市广播电视台",
     "category": "地方新闻单位",
     "url": "http://www.青岛市广播电视台.cn",
@@ -6500,6 +7648,13 @@
     "category": "地方新闻单位",
     "url": "http://www.东营市广播电视台.cn",
     "raw_url": "http://www.东营市广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "烟台广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.烟台广播电视台.cn",
+    "raw_url": "http://www.烟台广播电视台.cn",
     "sub_category": "广播电视"
   },
   {
@@ -6543,6 +7698,13 @@
     "url": "http://www.临沂市广播电视台.cn",
     "raw_url": "http://www.临沂市广播电视台.cn",
     "sub_category": "广播电视"
+  },
+  {
+    "name": "河南日报",
+    "category": "地方新闻单位",
+    "url": "http://www.河南日报.cn",
+    "raw_url": "http://www.河南日报.cn",
+    "sub_category": "报业传媒"
   },
   {
     "name": "郑州日报",
@@ -6678,10 +7840,31 @@
     "sub_category": "报业传媒"
   },
   {
+    "name": "河南日报农村版",
+    "category": "地方新闻单位",
+    "url": "http://www.河南日报农村版.cn",
+    "raw_url": "http://www.河南日报农村版.cn",
+    "sub_category": "报业传媒"
+  },
+  {
     "name": "大河报",
     "category": "地方新闻单位",
     "url": "http://www.大河报.cn",
     "raw_url": "http://www.大河报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "河南商报",
+    "category": "地方新闻单位",
+    "url": "http://www.河南商报.cn",
+    "raw_url": "http://www.河南商报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "河南法制报",
+    "category": "地方新闻单位",
+    "url": "http://www.河南法制报.cn",
+    "raw_url": "http://www.河南法制报.cn",
     "sub_category": "报业传媒"
   },
   {
@@ -6690,6 +7873,27 @@
     "url": "http://www.大河健康报.cn",
     "raw_url": "http://www.大河健康报.cn",
     "sub_category": "报业传媒"
+  },
+  {
+    "name": "河南广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.河南广播电视台.cn",
+    "raw_url": "http://www.河南广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "郑州广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.郑州广播电视台.cn",
+    "raw_url": "http://www.郑州广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "开封广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.开封广播电视台.cn",
+    "raw_url": "http://www.开封广播电视台.cn",
+    "sub_category": "广播电视"
   },
   {
     "name": "鹤壁市广播电视台",
@@ -6717,6 +7921,13 @@
     "category": "地方新闻单位",
     "url": "http://www.漯河市广播电视台.cn",
     "raw_url": "http://www.漯河市广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "洛阳广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.洛阳广播电视台.cn",
+    "raw_url": "http://www.洛阳广播电视台.cn",
     "sub_category": "广播电视"
   },
   {
@@ -6788,6 +7999,13 @@
     "url": "http://www.项城市融媒体中心.gov.cn",
     "raw_url": "http://www.项城市融媒体中心.gov.cn",
     "sub_category": "融媒体中心"
+  },
+  {
+    "name": "湖北日报",
+    "category": "地方新闻单位",
+    "url": "http://www.湖北日报.cn",
+    "raw_url": "http://www.湖北日报.cn",
+    "sub_category": "报业传媒"
   },
   {
     "name": "楚天都市报",
@@ -6909,6 +8127,20 @@
     "sub_category": "广播电视"
   },
   {
+    "name": "武汉广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.武汉广播电视台.cn",
+    "raw_url": "http://www.武汉广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "宜昌三峡广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.宜昌三峡广播电视台.cn",
+    "raw_url": "http://www.宜昌三峡广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
     "name": "荆州广播电视台",
     "category": "地方新闻单位",
     "url": "http://www.荆州广播电视台.cn",
@@ -6920,6 +8152,13 @@
     "category": "地方新闻单位",
     "url": "http://www.孝感广播电视台.cn",
     "raw_url": "http://www.孝感广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "襄阳广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.襄阳广播电视台.cn",
+    "raw_url": "http://www.襄阳广播电视台.cn",
     "sub_category": "广播电视"
   },
   {
@@ -6993,6 +8232,13 @@
     "sub_category": "融媒体中心"
   },
   {
+    "name": "湖南日报",
+    "category": "地方新闻单位",
+    "url": "http://www.湖南日报.cn",
+    "raw_url": "http://www.湖南日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
     "name": "潇湘晨报",
     "category": "地方新闻单位",
     "url": "http://www.潇湘晨报.cn",
@@ -7063,6 +8309,20 @@
     "sub_category": "报业传媒"
   },
   {
+    "name": "长沙广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.长沙广播电视台.cn",
+    "raw_url": "http://www.长沙广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "株洲市广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.株洲市广播电视台.cn",
+    "raw_url": "http://www.株洲市广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
     "name": "衡阳市广播电视台",
     "category": "地方新闻单位",
     "url": "http://www.衡阳市广播电视台.cn",
@@ -7112,6 +8372,27 @@
     "sub_category": "融媒体中心"
   },
   {
+    "name": "南方日报",
+    "category": "地方新闻单位",
+    "url": "http://www.南方日报.cn",
+    "raw_url": "http://www.南方日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "广州日报",
+    "category": "地方新闻单位",
+    "url": "http://www.广州日报.cn",
+    "raw_url": "http://www.广州日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "羊城晚报",
+    "category": "地方新闻单位",
+    "url": "http://www.羊城晚报.cn",
+    "raw_url": "http://www.羊城晚报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
     "name": "南方都市报",
     "category": "地方新闻单位",
     "url": "http://www.南方都市报.cn",
@@ -7123,6 +8404,13 @@
     "category": "地方新闻单位",
     "url": "http://www.南方周末报.cn",
     "raw_url": "http://www.南方周末报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "深圳特区报",
+    "category": "地方新闻单位",
+    "url": "http://www.深圳特区报.cn",
+    "raw_url": "http://www.深圳特区报.cn",
     "sub_category": "报业传媒"
   },
   {
@@ -7266,6 +8554,13 @@
     "sub_category": "地方新闻单位综合"
   },
   {
+    "name": "广东广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.广东广播电视台.cn",
+    "raw_url": "http://www.广东广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
     "name": "广州市广播电视台",
     "category": "地方新闻单位",
     "url": "http://www.广州市广播电视台.cn",
@@ -7347,6 +8642,13 @@
     "category": "地方新闻单位",
     "url": "http://www.湛江市广播电视台.cn",
     "raw_url": "http://www.湛江市广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "中山广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.中山广播电视台.cn",
+    "raw_url": "http://www.中山广播电视台.cn",
     "sub_category": "广播电视"
   },
   {
@@ -7616,6 +8918,13 @@
     "sub_category": "广播电视"
   },
   {
+    "name": "重庆日报",
+    "category": "地方新闻单位",
+    "url": "http://www.重庆日报.cn",
+    "raw_url": "http://www.重庆日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
     "name": "重庆晨报",
     "category": "地方新闻单位",
     "url": "http://www.重庆晨报.cn",
@@ -7662,6 +8971,20 @@
     "category": "地方新闻单位",
     "url": "http://www.华西都市报.cn",
     "raw_url": "http://www.华西都市报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "成都商报",
+    "category": "地方新闻单位",
+    "url": "http://www.成都商报.cn",
+    "raw_url": "http://www.成都商报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "四川经济日报",
+    "category": "地方新闻单位",
+    "url": "http://www.四川经济日报.cn",
+    "raw_url": "http://www.四川经济日报.cn",
     "sub_category": "报业传媒"
   },
   {
@@ -7726,6 +9049,34 @@
     "url": "http://www.德阳日报.cn",
     "raw_url": "http://www.德阳日报.cn",
     "sub_category": "报业传媒"
+  },
+  {
+    "name": "四川党的建设",
+    "category": "地方新闻单位",
+    "url": "http://www.四川党的建设.gov.cn",
+    "raw_url": "http://www.四川党的建设.gov.cn",
+    "sub_category": "地方新闻单位综合"
+  },
+  {
+    "name": "四川广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.四川广播电视台.cn",
+    "raw_url": "http://www.四川广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "成都广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.成都广播电视台.cn",
+    "raw_url": "http://www.成都广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "宜宾广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.宜宾广播电视台.cn",
+    "raw_url": "http://www.宜宾广播电视台.cn",
+    "sub_category": "广播电视"
   },
   {
     "name": "成都高新区融媒体中心",
@@ -8120,6 +9471,27 @@
     "sub_category": "广播电视"
   },
   {
+    "name": "陕西日报",
+    "category": "地方新闻单位",
+    "url": "http://www.陕西日报.cn",
+    "raw_url": "http://www.陕西日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "西安日报",
+    "category": "地方新闻单位",
+    "url": "http://www.西安日报.cn",
+    "raw_url": "http://www.西安日报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
+    "name": "陕西农村报",
+    "category": "地方新闻单位",
+    "url": "http://www.陕西农村报.cn",
+    "raw_url": "http://www.陕西农村报.cn",
+    "sub_category": "报业传媒"
+  },
+  {
     "name": "三秦都市报",
     "category": "地方新闻单位",
     "url": "http://www.三秦都市报.cn",
@@ -8183,10 +9555,24 @@
     "sub_category": "报业传媒"
   },
   {
+    "name": "陕西广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.陕西广播电视台.cn",
+    "raw_url": "http://www.陕西广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
     "name": "西安广播电视台",
     "category": "地方新闻单位",
     "url": "http://www.西安广播电视台.cn",
     "raw_url": "http://www.西安广播电视台.cn",
+    "sub_category": "广播电视"
+  },
+  {
+    "name": "韩城市广播电视台",
+    "category": "地方新闻单位",
+    "url": "http://www.韩城市广播电视台.cn",
+    "raw_url": "http://www.韩城市广播电视台.cn",
     "sub_category": "广播电视"
   },
   {
@@ -8330,6 +9716,13 @@
     "sub_category": "地方新闻单位综合"
   },
   {
+    "name": "玉门市融媒体中心",
+    "category": "地方新闻单位",
+    "url": "http://www.玉门市融媒体中心.gov.cn",
+    "raw_url": "http://www.玉门市融媒体中心.gov.cn",
+    "sub_category": "融媒体中心"
+  },
+  {
     "name": "西海都市报",
     "category": "地方新闻单位",
     "url": "http://www.西海都市报.cn",
@@ -8449,6 +9842,27 @@
     "sub_category": "省级政务发布平台"
   },
   {
+    "name": "河北省人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.hebei.gov.cn",
+    "raw_url": "http://www.hebei.gov.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
+    "name": "山西省人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.shanxi.gov.cn",
+    "raw_url": "http://www.shanxi.gov.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
+    "name": "内蒙古自治区人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.nmg.gov.cn",
+    "raw_url": "http://www.nmg.gov.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
     "name": "辽宁省人民政府网站",
     "category": "省级政务发布平台",
     "url": "http://www.ln.gov.cn",
@@ -8460,6 +9874,13 @@
     "category": "省级政务发布平台",
     "url": "http://www.jl.gov.cn",
     "raw_url": "http://www.jl.gov.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
+    "name": "黑龙江省人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.黑龙江省人民政府网站.cn",
+    "raw_url": "http://www.黑龙江省人民政府网站.cn",
     "sub_category": "省级政务发布平台"
   },
   {
@@ -8477,6 +9898,20 @@
     "sub_category": "省级政务发布平台"
   },
   {
+    "name": "浙江省人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.浙江省人民政府网站.cn",
+    "raw_url": "http://www.浙江省人民政府网站.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
+    "name": "安徽省人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.安徽省人民政府网站.cn",
+    "raw_url": "http://www.安徽省人民政府网站.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
     "name": "福建省人民政府网站",
     "category": "省级政务发布平台",
     "url": "http://www.福建省人民政府网站.cn",
@@ -8484,10 +9919,31 @@
     "sub_category": "省级政务发布平台"
   },
   {
+    "name": "江西省人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.江西省人民政府网站.cn",
+    "raw_url": "http://www.江西省人民政府网站.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
     "name": "山东省人民政府网站",
     "category": "省级政务发布平台",
     "url": "http://www.山东省人民政府网站.cn",
     "raw_url": "http://www.山东省人民政府网站.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
+    "name": "河南省人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.河南省人民政府网站.cn",
+    "raw_url": "http://www.河南省人民政府网站.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
+    "name": "湖北省人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.湖北省人民政府网站.cn",
+    "raw_url": "http://www.湖北省人民政府网站.cn",
     "sub_category": "省级政务发布平台"
   },
   {
@@ -8505,6 +9961,20 @@
     "sub_category": "省级政务发布平台"
   },
   {
+    "name": "广西壮族自治区人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.广西壮族自治区人民政府网站.cn",
+    "raw_url": "http://www.广西壮族自治区人民政府网站.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
+    "name": "海南省人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.海南省人民政府网站.cn",
+    "raw_url": "http://www.海南省人民政府网站.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
     "name": "重庆市人民政府网站",
     "category": "省级政务发布平台",
     "url": "http://www.重庆市人民政府网站.cn",
@@ -8512,10 +9982,45 @@
     "sub_category": "省级政务发布平台"
   },
   {
+    "name": "四川省人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.四川省人民政府网站.cn",
+    "raw_url": "http://www.四川省人民政府网站.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
+    "name": "贵州省人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.贵州省人民政府网站.cn",
+    "raw_url": "http://www.贵州省人民政府网站.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
+    "name": "云南省人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.云南省人民政府网站.cn",
+    "raw_url": "http://www.云南省人民政府网站.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
     "name": "西藏自治区人民政府网站",
     "category": "省级政务发布平台",
     "url": "http://www.西藏自治区人民政府网站.cn",
     "raw_url": "http://www.西藏自治区人民政府网站.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
+    "name": "陕西省人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.陕西省人民政府网站.cn",
+    "raw_url": "http://www.陕西省人民政府网站.cn",
+    "sub_category": "省级政务发布平台"
+  },
+  {
+    "name": "甘肃省人民政府网站",
+    "category": "省级政务发布平台",
+    "url": "http://www.甘肃省人民政府网站.cn",
+    "raw_url": "http://www.甘肃省人民政府网站.cn",
     "sub_category": "省级政务发布平台"
   },
   {

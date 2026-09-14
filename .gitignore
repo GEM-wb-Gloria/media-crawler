@@ -15,6 +15,11 @@ Thumbs.db
 # 爬虫运行产生的大体积临时日志
 crawler/crawler.log
 *.log
+benchmark/validation_results/*.log
+benchmark/*.log
+
+# 本地个人非代码资料
+理论文件/
 
 # （可选）如果不想把已抓取的大量数据推上 GitHub，可取消下面一行的注释：
 # crawler/data/
