@@ -15,8 +15,8 @@ Thumbs.db
 # 爬虫运行产生的大体积临时日志
 crawler/crawler.log
 *.log
-benchmark/validation_results/*.log
-benchmark/*.log
+# 本地评测与测试套件目录（不上传至 GitHub）
+benchmark/
 
 # 本地个人非代码资料
 理论文件/
